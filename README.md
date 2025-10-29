@@ -8,26 +8,37 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Welcome to My portfolio for Telling Stories with Data! For the focus of the final project, my data will be definitely focus on education, specifically post-secondary access within marginalized Black communities. In the past, I've worked with FAFSA data for the programs I managed in different professional capacities. I'm looking forward to exploring different frameworks for visualizing data and reefining my project scope.
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+# About Me
 
-1. List item #1
-2. List item #2
-3. List item #3
+My name is Monet Blakey and I'm a graduating MSPPM student studying at Carnegie Mellon University - Heinz College. After graduating, I would like to return to Washington, DC and continue working in education. Before coming to Heinz College, I worked in college access in the Washington, DC region- primarily at community based organizations that had partnerships with school districts, public charter school networks, and private schools. I enrolled in Heinz College because I would like to strengthen my abilities to advocate for increased resources to expanding educational access for students and families from underserved communities. 
 
-or...
 
-- List item #1
-- List item #2
-- List item #3
+# Goals For Telling Stories with Data
 
-# Portfolio
+My overall goal for this course to decrease sole reliance on written text to convey key ideas and arguments. I plan to approach my goal from the following angles: 
 
+1. Visualization Design - My prior experience writing reports, presentations, and memos gave me a foundation for using different types of visualizations to highlight key findings in datasets. After the first week of class, I am eager to learn how to strategically design graphs to reinforce key findings and and main ideas. Before this class, I primarily focused on uniformness with my graphics. 
+   
+2. Visualization Selection - Similar to my prior goal, I'm looking forward to applying a graphic design approach to converying information using graphics. During iniital week of class, I became aware of many opportunities for growth as different techniques strategies, and best practices for communicaiting 
+   
+
+# After Heinz
+
+
+
+
+
+
+
+
+
+
+
+
+# Reference Section
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
