@@ -113,62 +113,44 @@ Marvel fans who enjoy comparing films. The bar chart’s simplicity signals it�
 
 ## Step five: Synthesis & build the solution
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<title>Interactive Tableau Viz</title>
-</head>
-<body>
-
-<h2>Interactive Tableau Visualization</h2>
-
-<div class="tableauPlaceholder" id="viz1763095349175" style="position: relative;">
+<div class='tableauPlaceholder' id='vizMarvel' style='position: relative'>
   <noscript>
-    <a href="#">
-      <img
-        alt="Money, Money, Money: Budget vs Global Gross Profit for the Entire MCU Universe"
-        src="https://public.tableau.com/static/images/Da/DataCritiqueOneFD/Sheet1/1.png"
-        style="border: none;"
-      />
+    <a href='#'>
+      <img alt='Marvel Viz' src='https://public.tableau.com/static/images/Da/DataCritiqueOneFD/Sheet1/1.png' style='border:none;' />
     </a>
   </noscript>
 
-  <object class="tableauViz" style="display:none;">
-    <param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F"/>
-    <param name="embed_code_version" value="3"/>
-    <param name="site_root" value=""/>
-    <param name="name" value="DataCritiqueOneFD/Sheet1"/>
-    <param name="tabs" value="no"/>
-    <param name="toolbar" value="yes"/>
-    <param name="static_image" value="https://public.tableau.com/static/images/Da/DataCritiqueOneFD/Sheet1/1.png"/>
-    <param name="animate_transition" value="yes"/>
-    <param name="display_static_image" value="yes"/>
-    <param name="display_spinner" value="yes"/>
-    <param name="display_overlay" value="yes"/>
-    <param name="display_count" value="yes"/>
-    <param name="language" value="en-US"/>
-    <param name="filter" value="publish=yes"/>
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+    <param name='embed_code_version' value='3' />
+    <param name='site_root' value='' />
+    <param name='name' value='DataCritiqueOneFD/Sheet1' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+    <param name='static_image' value='https://public.tableau.com/static/images/Da/DataCritiqueOneFD/Sheet1/1.png' />
+    <param name='animate_transition' value='yes' />
+    <param name='display_static_image' value='yes' />
+    <param name='display_spinner' value='yes' />
+    <param name='display_overlay' value='yes' />
+    <param name='display_count' value='yes' />
+    <param name='language' value='en-US' />
+    <param name='filter' value='publish=yes' />
   </object>
 </div>
 
-<script type="text/javascript">
-  var divElement = document.getElementById("viz1763095349175");
-  var vizElement = divElement.getElementsByTagName("object")[0];
-  vizElement.style.width = "100%";
-  vizElement.style.height = (divElement.offsetWidth * 0.75) + "px";
-
-  var scriptElement = document.createElement("script");
-  scriptElement.src = "https://public.tableau.com/javascripts/api/viz_v1.js";
+<script type='text/javascript'>
+  var divElement = document.getElementById('vizMarvel');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width = '100%';
+  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-</body>
-</html>
 
 
-
-With my edited graph, I wanted to simplify it specifically to address how overwhelming the amount of information present on the original graph was. So, for this assignment, I decided to just focus specifically on capturing the relationship between the amount of money spent on the movie and the amount of money that it actually earned. I also additionally decided to sort by phase within the MCU universe. I did this because I wanted this graphic to be catered towards casual moviegoers. 
+Bearing the feedback from the interviews in mind, with my edited graph, I wanted to simplify it specifically to address how overwhelming the amount of information present on the original graph was. So, for this assignment, I decided to just focus specifically on capturing the relationship between the amount of money spent on the movie and the amount of money that it actually earned. I also additionally decided to sort by phase within the MCU universe. I did this because I wanted this graphic to be catered towards casual moviegoers. 
 
 I also wanted to remove one of the axes on the graph because, as I’ll get into later, when I looked at the original visualization I thought of it as a coordinate plane, and I interpreted it specifically as having three quadrants. On my initial intake, I thought that it would make sense for movies to want to be in the third quadrant, which would indicate that there is a positive value for both of the coordinates being used. 
 
