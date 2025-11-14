@@ -32,42 +32,82 @@ Still, in this presentation, everything appears together, and the viewer is not 
 
 ## Step four: Test the solution
 
-Respondent 1 — MSPPM Data Analytics (1st Year), Not a Marvel Fan, Extensive Data Viz Experience
-Interviewer: Can you tell me what you think this is?
-Respondent 1: At first glance, I thought this was a timeline of Marvel movies arranged by their overall profits. The structure made me assume the bars were meant to show some kind of progression over time. However, it wasn’t immediately obvious how the values were being organized.
-Interviewer: Can you describe what this is telling you?
-Respondent 1: I honestly couldn’t parse out what the visualization was trying to communicate because the information felt cluttered. The stacking of budget and gross made it difficult to distinguish the relative significance of each value. Overall, the organization didn’t guide my attention in a meaningful way.
-Interviewer: Is there anything you find surprising or confusing?
-Respondent 1: I wouldn’t say it was confusing—more that it lacked clarity. I could tell what the dataset was, but the presentation didn’t support quick interpretation. Nothing about the layout or content really surprised me given the context.
-Interviewer: Who do you think is the intended audience for this?
-Respondent 1: This definitely appears targeted toward Marvel fans who want a general sense of movie performance. It doesn’t seem optimized for someone with a data background or someone looking for analytical insights. The visual choices suggest an emphasis on entertainment rather than precision.
-Interviewer: Is there anything you would change or do differently?
-Respondent 1: I’d reorganize the graph so the hierarchy of information is clearer—stronger labeling, consistent spacing, and fewer competing visual elements. Separating the budget and gross into distinct visuals might help reduce information overload. 
+Respondent 1
 
+MSPPM Data Analytics (1st Year)
+Not a Marvel Fan
+Extensive Data Viz Experience
 
-Respondent 2 — MSPPM Flagship (1st Year), Moderate Marvel Fan, Medium Data Experience
-Interviewer: Can you tell me what you think this is?
-Respondent 2: It looks like a bar graph comparing the budgets and total earnings of different Marvel movies. My initial assumption was that the bars were meant to show which films performed the best financially. It took a moment to orient myself, but the theme was familiar enough.
-Interviewer: Can you describe what this is telling you?
-Respondent 2: I think it’s trying to highlight the relationship between how much each movie cost and how much revenue it brought in. You can see the variation across films, but there’s a lot happening visually. It ultimately communicates financial performance, though not in the clearest way.
-Interviewer: Is there anything you find surprising or confusing?
-Respondent 2: The original graph felt overwhelming because of how many dots and labels were packed into one space. Having the full movie titles directly next to each dot added unnecessary clutter. It took extra effort to separate meaningful information from the visual noise.
-Interviewer: Who do you think is the intended audience for this?
-Respondent 2: It seems aimed at casual Marvel fans who might enjoy seeing the financial side of the franchise but don’t necessarily need a deep analysis. The design feels more like something you’d encounter on a fan site rather than a technical report. It’s visually interesting but not analytically focused.
-Interviewer: Is there anything you would change or do differently?
-Respondent 2: I didn’t find the either graphic very useful for comparing data across films, so I’d streamline the presentation. I’d also consider grouping films in a more intuitive way—something tied to phases, characters, or release periods.
+What do you think this is?
 
+At first glance, I thought this was a timeline of Marvel movies arranged by their overall profits. The structure made me assume the bars were showing some kind of progression over time, but it wasn’t clear how the values were being organized.
 
+What is this telling you?
 
-Respondent 3 — MSPPM Flagship (1st Year), Familiar Marvel, Extensive Data Experience
-Interviewer: Can you tell me what you think this is?
-Respondent 3: This looks like an attempt to visualize Marvel film budgets and earnings using a coordinate-plane-style layout. The structure implies comparisons across multiple films, but the setup initially felt more complex than necessary. I recognized the data type immediately, even though I’m not a Marvel follower.
-Interviewer: Can you describe what this is telling you?
-Respondent 3: It appears to show the financial performance of each film, but the axes unintentionally created quadrant implications that led me to search for meaning that wasn’t actually there. I found myself trying to interpret the positioning of films as if the quadrants represented categories or outcomes. Once I realized it wasn’t intentional, the purpose became clearer.
-Interviewer: Is there anything you find surprising or confusing?
-Respondent 3: The main confusion came from the stacked format—it took a moment to understand that the heights were cumulative rather than separate. 
-Interviewer: Who do you think is the intended audience for this?
-Respondent 3: It seems targeted toward Marvel fans who enjoy comparing films, not people seeking advanced insights. The simplicity of the bar graph suggests it's designed for casual browsing.
+I couldn’t parse out what the visualization was trying to communicate because the information felt cluttered. The stacking of budget and gross made it difficult to distinguish the significance of each value. The organization didn’t guide my attention in a meaningful way.
+
+Anything surprising or confusing?
+
+It wasn’t confusing—just unclear. I could tell what the dataset was, but the presentation didn’t support quick interpretation. Nothing in the layout was surprising given the context.
+
+Who is the intended audience?
+
+Likely Marvel fans who want a general sense of movie performance. It does not appear intended for someone with a data background or someone looking for analytical insights.
+
+What would you change?
+
+I’d reorganize the graph so the hierarchy of information is clearer—stronger labeling, consistent spacing, fewer competing visuals. Separating budget and gross into distinct visuals could reduce overload.
+
+Respondent 2
+
+MSPPM Flagship (1st Year)
+Moderate Marvel Fan
+Medium Data Experience
+
+What do you think this is?
+
+It looks like a bar graph comparing budgets and total earnings of Marvel movies. I assumed the bars showed financial performance, though it took a moment to orient myself.
+
+What is this telling you?
+
+It’s highlighting the relationship between how much each movie cost and how much revenue it generated. The variation across films is visible, but there’s a lot happening visually.
+
+Anything surprising or confusing?
+
+The original graph felt overwhelming because of the many dots and labels. Full movie titles next to each dot added clutter and made comparison difficult.
+
+Who is the intended audience?
+
+Casual Marvel fans who might enjoy financial comparisons but don’t need deep analysis. It feels more like fan-site content than a technical visualization.
+
+What would you change?
+
+I’d streamline the presentation and group films more intuitively—by phases, characters, or release periods.
+
+Respondent 3
+
+MSPPM Flagship (1st Year)
+Familiar with Marvel
+Extensive Data Experience
+
+What do you think this is?
+
+It looks like an attempt to visualize Marvel film budgets and earnings using a coordinate-plane style. The layout suggested comparisons across films but felt more complex than needed.
+
+What is this telling you?
+
+It shows financial performance, but the axes unintentionally created quadrant implications that made me search for meaning that wasn’t there. Once I realized the quadrants weren’t intentional, the purpose became clearer.
+
+Anything surprising or confusing?
+
+The stacked format caused some confusion—it took a moment to understand the heights were cumulative, not separate.
+
+Who is the intended audience?
+
+Marvel fans who enjoy comparing films. The bar chart’s simplicity signals it’s for casual viewing rather than analytical interpretation.
+ 
+<img width="468" height="635" alt="image" src="https://github.com/user-attachments/assets/9c2c9b56-439b-4970-a68e-ecec2396dba6" />
+
 
 
 Synthesis: 
