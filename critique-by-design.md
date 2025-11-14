@@ -137,7 +137,13 @@ Final Solution
 
 
 ## References
-_List any references you used here._
+
+The Link to the Data and Original Visualization
+
+
+https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/
+
+
 
 ## AI acknowledgements
 I did not use AI for this assignment
