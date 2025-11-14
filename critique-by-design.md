@@ -168,7 +168,7 @@ With this assignment, I wanted to simplify the graph to show how the MCU profita
 
 As I looked through the different phases and their subsequent titles, I was taken back to memories of being in the theaters and seeing how the trend of waiting until after the credit became common movie going practice. Organizing the data by phase made it easier to see how the MCU grew, how audiences responded at different points in the timeline, and how Marvel’s strategies shaped the overall success of the franchise
 
-Ideally, an optimal version of the final solution would sort the graphs by release date and not increasing profit. 
+Ideally, an optimal version of the final solution would sort the graphs by release date and not increasing profit, which is a feature that the original version. I attempted to integrate the information which combining of the film titles and release year. In the Datawrapper version, I used the sorting by Phases to chronologically capture the data. On Tableau version, I added the Filter by Phase feature to help with chronological comparisons. 
 
 
 
