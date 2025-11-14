@@ -23,6 +23,8 @@ _Still, in this presentation, everything appears together, and the viewer is not
 
 ## Step three: Sketch a solution
 
+<img width="2796" height="1946" alt="image" src="https://github.com/user-attachments/assets/c80e0cae-ba6f-48aa-86fb-912935872107" />
+
 
 ## Step four: Test the solution
 
@@ -57,7 +59,20 @@ _What patterns in the feedback emerge?  What did you learn from the feedback?  B
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+With my edited graph, I wanted to simplify it specifically to address how overwhelming the amount of information present on the original graph was. So, for this assignment, I decided to just focus specifically on capturing the relationship between the amount of money spent on the movie and the amount of money that it actually earned. I also additionally decided to focus on it by character and by phase within the MCU universe. I did this because I wanted this graphic to be catered towards casual moviegoers—people without backgrounds in data analytics—and people typically go to movies based off of characters that they are attracted to. So I figured organizing the data in this way would be relevant and appealing to the audience.
+
+I also wanted to remove one of the axes on the graph because, as I’ll get into later, when I looked at the original visualization I thought of it as a coordinate plane, and I interpreted it specifically as having three quadrants. On my initial intake, I thought that it would make sense for movies to want to be in the third quadrant, which would indicate that there is a positive value for both of the coordinates being used. I decided to use bar graphs because, again, I'm targeting the casual moviegoer, and bar graphs really show and capture the relationship specifically by group. With that group, I grouped them by different phases within the MCU universe.
+Additionally, I also changed the labels on the graphs. In removing the axes, I combined the title and the year that the movie was released, which I thought would be useful for the different characters that I was using for the MCU universe. Given that I was organizing them by character and phase within the universe, having the year next to the title of the movie would help aid with temporal organization.
+
+As you saw on the first graph, Endgame and Infinity War repeatedly extend far beyond the scale of the other films. I built the categories to group the movies by the main characters or franchises, and those two films consistently distorted the image. They dominated the visual in a way that didn’t add meaningful insight, so I ultimately removed them to allow the other data to be interpreted more clearly. I decided instead to focus on the different phases of the MCU because I felt that this structure better captured the evolution and strategic development of Marvel’s cinematic storytelling. The phases also reflect Marvel’s long-term marketing strategy and the sequencing of film releases. Over time, these phases demonstrate how Marvel used a “blue ocean strategy”—identifying an underdeveloped niche within action and superhero films and then expanding it into a massive, interconnected universe. I also thought it was interesting how each film builds toward the next through end-credit scenes, functioning almost like narrative “Easter eggs” that guide viewers through the larger universe. Organizing the data by phase made it easier to see how the MCU grew, how audiences responded at different points in the timeline, and how Marvel’s strategies shaped the overall success of the franchise
+
+
+Final Solution
+
+<img width="2796" height="2548" alt="93WLF-money-money-money-nbsp-budgets-vs-worldwide-gross-in-mcu-films-by-phase-" src="https://github.com/user-attachments/assets/c16834c5-f104-48c9-9176-cf654f625988" />
+
+
 
 ## References
 _List any references you used here._
