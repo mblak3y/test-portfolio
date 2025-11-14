@@ -120,6 +120,9 @@ DataWrapper Version:
 <div style="min-height:1331px" id="datawrapper-vis-93WLF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/93WLF/embed.js" charset="utf-8" data-target="#datawrapper-vis-93WLF"></script><noscript><img src="https://datawrapper.dwcdn.net/93WLF/full.png" alt="Money, Money, Money:  Budgets Vs Worldwide Gross in MCU Films by Phase (Bullet Bars)" /></noscript></div>
 
 
+
+
+
 Customizable Tableau Interactive Version:
 
 <div class='tableauPlaceholder' id='vizMarvel' style='position: relative'>
@@ -156,6 +159,8 @@ Customizable Tableau Interactive Version:
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+
 
 
 Bearing the feedback from the interviews in mind, with my edited graph, I wanted to simplify it specifically to address how overwhelming the amount of information present on the original graph was. So, for this assignment, I decided to just focus specifically on capturing the relationship between the amount of money spent on the movie and the amount of money that it actually earned. I also additionally decided to sort by phase within the MCU universe. I did this because I wanted this graphic to be catered towards casual moviegoers. 
