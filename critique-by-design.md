@@ -126,14 +126,11 @@ Customizable Tableau Interactive Version:
 
 
 
-<div style="display: flex; justify-content: center;">
-  <iframe 
-    src="https://public.tableau.com/views/DataCritiqueOneFD/Sheet1?:showVizHome=no&embed=true"
-    width="100%" 
-    height="800"
-    style="max-width: 1000px; border: none;">
-  </iframe>
-</div>
+<iframe 
+  src="https://public.tableau.com/views/DataCritiqueOneFD/Sheet1?:showVizHome=no&embed=true"
+  width="100%" 
+  height="800"
+></iframe>
 
 
 
