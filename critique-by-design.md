@@ -6,9 +6,8 @@
 
 ## Step one: the visualization
 
-Link to the Visualization: 
+[Original Visualization](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
 
-https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/
 
 <img width="2922" height="1508" alt="image" src="https://github.com/user-attachments/assets/aa91e9e7-ce64-4a8f-a9a5-6d5e163fd3f7" />
 
@@ -137,6 +136,8 @@ Customizable Tableau Interactive Version:
 </div>
 
 
+
+[Customizable Tableau Interactive Version Link](https://public.tableau.com/app/profile/monet.blakey/viz/DataCritiqueOneFD/Sheet1)
 
 Bearing the feedback from the interviews in mind, with my edited graph, I wanted to simplify it specifically to address how overwhelming the amount of information present on the original graph was. So, for this assignment, I decided to just focus specifically on capturing the relationship between the amount of money spent on the movie and the amount of money that it actually earned. I also additionally decided to sort by phase within the MCU universe. I did this because I wanted this graphic to be catered towards casual moviegoers. 
 
