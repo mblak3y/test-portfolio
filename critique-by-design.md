@@ -29,7 +29,7 @@ Still, in this presentation, everything appears together, and the viewer is not 
 
 ## Step three: Sketch a solution
 
-<img width="2796" height="1946" alt="image" src="https://github.com/user-attachments/assets/c80e0cae-ba6f-48aa-86fb-912935872107" />
+<div style="min-height:980px" id="datawrapper-vis-2PzT9"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/2PzT9/embed.js" charset="utf-8" data-target="#datawrapper-vis-2PzT9"></script><noscript><img src="https://datawrapper.dwcdn.net/2PzT9/full.png" alt="Step 3: Money, Money, Money:  Budgets Vs Worldwide Gross in MCU Films (Bullet Bars)" /></noscript></div>
 
 
 ## Step four: Test the solution
@@ -113,6 +113,15 @@ Marvel fans who enjoy comparing films. The bar chart’s simplicity signals it�
 
 ## Step five: Synthesis & build the solution
 
+
+DataWrapper Version:
+
+
+<div style="min-height:1331px" id="datawrapper-vis-93WLF"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/93WLF/embed.js" charset="utf-8" data-target="#datawrapper-vis-93WLF"></script><noscript><img src="https://datawrapper.dwcdn.net/93WLF/full.png" alt="Money, Money, Money:  Budgets Vs Worldwide Gross in MCU Films by Phase (Bullet Bars)" /></noscript></div>
+
+
+Customizable Tableau Interactive Version:
+
 <div class='tableauPlaceholder' id='vizMarvel' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -149,7 +158,6 @@ Marvel fans who enjoy comparing films. The bar chart’s simplicity signals it�
 </script>
 
 
-
 Bearing the feedback from the interviews in mind, with my edited graph, I wanted to simplify it specifically to address how overwhelming the amount of information present on the original graph was. So, for this assignment, I decided to just focus specifically on capturing the relationship between the amount of money spent on the movie and the amount of money that it actually earned. I also additionally decided to sort by phase within the MCU universe. I did this because I wanted this graphic to be catered towards casual moviegoers. 
 
 I also wanted to remove one of the axes on the graph because, as I’ll get into later, when I looked at the original visualization I thought of it as a coordinate plane, and I interpreted it specifically as having three quadrants. On my initial intake, I thought that it would make sense for movies to want to be in the third quadrant, which would indicate that there is a positive value for both of the coordinates being used. 
@@ -163,9 +171,7 @@ As I looked through the different phases and their subsequent titles, I was take
 Ideally, an optimal version of the final solution would sort the graphs by release date and not increasing profit. 
 
 
-Final Solution
 
-<img width="2796" height="2548" alt="93WLF-money-money-money-nbsp-budgets-vs-worldwide-gross-in-mcu-films-by-phase-" src="https://github.com/user-attachments/assets/c16834c5-f104-48c9-9176-cf654f625988" />
 
 
 
