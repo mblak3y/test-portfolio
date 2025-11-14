@@ -29,6 +29,8 @@ Still, in this presentation, everything appears together, and the viewer is not 
 
 <img width="2796" height="1946" alt="image" src="https://github.com/user-attachments/assets/c80e0cae-ba6f-48aa-86fb-912935872107" />
 
+<div style="min-height:953px" id="datawrapper-vis-2PzT9"><script type="text/javascript" defer src="https://datawrapper.dwcdn.net/2PzT9/embed.js" charset="utf-8" data-target="#datawrapper-vis-2PzT9"></script><noscript><img src="https://datawrapper.dwcdn.net/2PzT9/full.png" alt="Step 3: Money, Money, Money:  Budgets Vs Worldwide Gross in MCU Films (Bullet Bars)" /></noscript></div>
+
 
 ## Step four: Test the solution
 
