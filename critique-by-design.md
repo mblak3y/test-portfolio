@@ -6,7 +6,8 @@
 
 ## Step one: the visualization
 
-Link to the Visualization: (https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
+Link to the Visualization: 
+https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/
 
 <img width="2922" height="1508" alt="image" src="https://github.com/user-attachments/assets/aa91e9e7-ce64-4a8f-a9a5-6d5e163fd3f7" />
 
@@ -105,8 +106,6 @@ The stacked format caused some confusion—it took a moment to understand the he
 Who is the intended audience?
 
 Marvel fans who enjoy comparing films. The bar chart’s simplicity signals it’s for casual viewing rather than analytical interpretation.
- 
-<img width="468" height="635" alt="image" src="https://github.com/user-attachments/assets/9c2c9b56-439b-4970-a68e-ecec2396dba6" />
 
 
 
