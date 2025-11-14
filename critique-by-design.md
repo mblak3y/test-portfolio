@@ -6,7 +6,7 @@
 
 ## Step one: the visualization
 
-Link to the Visualization: https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/
+Link to the Visualization: (https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
 
 <img width="2922" height="1508" alt="image" src="https://github.com/user-attachments/assets/aa91e9e7-ce64-4a8f-a9a5-6d5e163fd3f7" />
 
@@ -14,7 +14,6 @@ Link to the Visualization: https://informationisbeautiful.net/visualizations/whi
 The visualization I selected is an interactive graphic from a movie website that shows relationships between different movie metrics, such as budget, percentage of budget recovered, critics’ score, audience score, and the deviation between critics’ and audience scores. The dataset is based on all 35 movies within the Marvel Cinematic Universe.
 
 However, I chose this graphic because I was impressed by the volume of information captured using its interactive features. I like that the graph allows you to change the metrics on each axis. As shown at the bottom of the graphic, you can look at the actual budget, the percentage of budget recovered, audience ratings, critics’ ratings, and the deviations between the two. 
-
 
 
 
@@ -83,5 +82,5 @@ Final Solution
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I did not use AI for this assignment
 
