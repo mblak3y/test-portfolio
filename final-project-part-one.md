@@ -28,6 +28,12 @@ Next, more visualizations will break down different demographics to look at iden
 
 “We can make the DC FAFSA Initiative a reality by supporting our students in ways they need.”
 
+My vision for the final visualizations is beginning to take shape. I imagine a dashboard composed of interactive bar charts and scatter plots that allow users to explore FAFSA completion and submission patterns from multiple angles. I keep thinking back to the visualization I encountered during my critique assignment—the interactive Marvel graph where users could shift the orientation of the legend and essentially transform the view of the dataset with a single click. That level of flexibility stayed with me, and I’d love to build something that offers a similar sense of exploration.
+
+I know it’s an ambitious undertaking, but I want to design a chart that allows the user to switch both axes, making it possible to examine the relationship between FAFSA completions and submissions dynamically.
+
+
+
 # The data
 
 The project will begin with an overview of FAFSA completion vs submission rates across the different periods in the pandemic. this visualization will be used to compare trends over time. from there, I will go on to focus on fast food completion versus submission rates across the different wards in Washington DC. Next, I'll identify the wards that have the lowest completion and submission rates. Then, I will focus on which schools have the lowest rates and identify demographics of students that should receive targeted interventions pursuant of the DC FAFSA initiative.
