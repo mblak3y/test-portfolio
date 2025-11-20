@@ -30,9 +30,7 @@ Next, more visualizations will break down different demographics to look at iden
 
 
 
-My vision for the final visualizations is beginning to take shape. I imagine a dashboard composed of interactive bar charts and scatter plots that allow users to explore FAFSA completion and submission patterns from multiple angles. I keep thinking back to the visualization I encountered during my critique assignment—the interactive Marvel graph where users could shift the orientation of the legend and essentially transform the view of the dataset with a single click. That level of flexibility stayed with me, and I’d love to build something that offers a similar sense of exploration.
-
-I know it’s an ambitious undertaking, but I want to design a chart that allows the user to switch both axes, making it possible to examine the relationship between FAFSA completions and submissions dynamically.
+My vision for the final visualizations is beginning to take shape. I imagine a dashboard composed of interactive bar charts and scatter plots that allow users to explore FAFSA completion and submission patterns from multiple angles. I keep thinking back to the visualization I encountered during my critique assignment—the interactive Marvel graph where users could shift the orientation of the legend and essentially transform the view of the dataset with a single click. I want to design a chart that allows the user to switch both axes, making it possible to examine the relationship between FAFSA completions and submissions dynamically.
 
 
 
