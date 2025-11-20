@@ -26,6 +26,8 @@ Next, more visualizations will break down different demographics to look at iden
 
 “We can make the DC FAFSA Initiative a reality by supporting our students in ways they need.”
 
+<img width="468" height="624" alt="image" src="https://github.com/user-attachments/assets/8b9cae27-24f8-45b6-8cb8-ae6e31f54bf1" />
+
 
 
 My vision for the final visualizations is beginning to take shape. I imagine a dashboard composed of interactive bar charts and scatter plots that allow users to explore FAFSA completion and submission patterns from multiple angles. I keep thinking back to the visualization I encountered during my critique assignment—the interactive Marvel graph where users could shift the orientation of the legend and essentially transform the view of the dataset with a single click. That level of flexibility stayed with me, and I’d love to build something that offers a similar sense of exploration.
