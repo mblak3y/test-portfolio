@@ -58,12 +58,8 @@ https://studentaid.gov/data-center/student/application-volume/fafsa-completion-h
 
 # Method and medium
 
-The final project will be produced using:
-•	Shorthand
-•	Tableau
-•	DataWrapper
+The final project will be produced using Shorthand, Tableau, and	DataWrapper
 The final deliverable will consist of an integrated series of visualizations designed to support exploratory data analysis and to tell a cohesive story about FAFSA recovery patterns in Washington, DC.
-
 
 
 ## References
