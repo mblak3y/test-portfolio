@@ -17,9 +17,16 @@ I’m particularly interested in these sets of data because it documents the num
 
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+I plan to begin by establishing a foundational understanding of the data. The visualizations will show that FAFSA rates haven’t returned to pre-pandemic levels. I will use this information to set the stage and ground the rest of the visualizations, with the intention of identifying demographics for the DC FAFSA Initiative to target.
+
+For context, the DC FAFSA Initiative is a benchmark set for high schools within DC to increase the number of FAFSAs completed each year by 3%.
+
+I plan to dive deeper by looking at the years in the pandemic. I’ll use these visualizations to break down and identify which schools were hit the hardest and which still have not made a full recovery. In addition to looking at trends across years, the data will also be visualized to look at trends by the different wards within the district, to further inform recommendations for the FAFSA Initiative to include in their benchmarks.
+
+Next, more visualizations will break down different demographics to look at identifiers such as socioeconomic status, gender, and ethnic background. From there, I will close out with my one-sentence summary of the narrative behind the visualizations:
+
+“We can make the DC FAFSA Initiative a reality by supporting our students in ways they need.”
 
 # The data
 
