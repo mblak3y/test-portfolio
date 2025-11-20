@@ -36,7 +36,7 @@ My vision for the final visualizations is beginning to take shape. I imagine a d
 
 # The data
 
-The project will begin with an overview of FAFSA completion vs submission rates across the different periods in the pandemic. this visualization will be used to compare trends over time. from there, I will go on to focus on fast food completion versus submission rates across the different wards in Washington DC. Next, I'll identify the wards that have the lowest completion and submission rates. Then, I will focus on which schools have the lowest rates and identify demographics of students that should receive targeted interventions pursuant of the DC FAFSA initiative.
+The project will begin with an overview of FAFSA completion vs submission rates across the different periods in the pandemic. this visualization will be used to compare trends over time. from there, I will go on to focus on FAFSA completion versus submission rates across the different wards in Washington DC. Next, I'll identify the wards that have the lowest completion and submission rates. Then, I will focus on which schools have the lowest rates and identify demographics of students that should receive targeted interventions pursuant of the DC FAFSA initiative.
 
 Dataset of high schools in the District of Columbia. Contains raw number of FAFSAs completed and submitted by students attending schools in DC. Normalize the data by converting the raw numbers for the schools into percentages to allow for comparison
 
