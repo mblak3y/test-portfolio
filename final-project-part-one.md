@@ -1,8 +1,6 @@
 | [home page][https://mblak3y.github.io/test-portfolio/] | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
 
 This project will show changes over time in FAFSA completion for high schools in Washington, DC. The project will focus on the school years 2019-2025- the dataset consists of data collected from the United States Department of Education, DC Public School Graduation Rates Set, and other public databases.
@@ -27,6 +25,8 @@ I plan to dive deeper by looking at the years in the pandemic. I’ll use these 
 Next, more visualizations will break down different demographics to look at identifiers such as socioeconomic status, gender, and ethnic background. From there, I will close out with my one-sentence summary of the narrative behind the visualizations:
 
 “We can make the DC FAFSA Initiative a reality by supporting our students in ways they need.”
+
+
 
 My vision for the final visualizations is beginning to take shape. I imagine a dashboard composed of interactive bar charts and scatter plots that allow users to explore FAFSA completion and submission patterns from multiple angles. I keep thinking back to the visualization I encountered during my critique assignment—the interactive Marvel graph where users could shift the orientation of the legend and essentially transform the view of the dataset with a single click. That level of flexibility stayed with me, and I’d love to build something that offers a similar sense of exploration.
 
@@ -75,4 +75,3 @@ https://studentaid.gov/data-center/student/application-volume/fafsa-completion-h
 ## AI acknowledgements
 
 I did not use AI for this assignment.
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
