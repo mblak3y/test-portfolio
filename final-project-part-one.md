@@ -39,20 +39,36 @@ The completion and submissions rates will be compared by Wards, public vs charte
 The data will be converted into averages to allow for comparison between the districts.
 This data will be used to inform my independent study next semester that will analyze relationships between FAFSA completion and personal demographics 
 
+Data Sources
+DCPS Graduation Data: 
 
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+https://dcps.dc.gov/node/1018352
+
+FAFSA Completion Rates:
+
+https://studentaid.gov/data-center/student/application-volume/fafsa-completion-high-school
+
+
 
 # Method and medium
 
-I plan on using Shorthand, Tableau, DataWrapper.
-My final project will consists of visualizations 
+The final project will be produced using:
+•	Shorthand
+•	Tableau
+•	DataWrapper
+The final deliverable will consist of an integrated series of visualizations designed to support exploratory data analysis and to tell a cohesive story about FAFSA recovery patterns in Washington, DC.
+
+
 
 ## References
-_List any references you used here._
+
+DCPS Graduation Data: 
+
+https://dcps.dc.gov/node/1018352
+
+FAFSA Completion Rates:
+
+https://studentaid.gov/data-center/student/application-volume/fafsa-completion-high-school
 
 ## AI acknowledgements
 
