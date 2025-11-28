@@ -7,19 +7,29 @@
 
 This project began in the early phases of an independent study planned for next semester, emerging from the intersection of professional experience as a college counselor and academic interests in education equity. The focus is on FAFSA completion rates for high schools in Washington, DC—the city where I grew up, worked, and remain deeply invested.
 
-The primary audience includes advocates for equitable education who are concerned about how financial aid access shapes postsecondary opportunities. I hope to connect educational professionals passionate about supporting first-generation college graduates and first-generation graduate students who understand the stakes behind these numbers. I want viewers to gain an awareness of the disparities that specific student demographics face in completing the FAFSA and accessing financial aid.
+The primary audience includes advocates for equitable education who are concerned about how financial aid access shapes postsecondary opportunities. I hope to empower educational professionals passionate about supporting first-generation college graduates and first-generation graduate students who understand the stakes behind these numbers. I want viewers to gain an awareness of the disparities that specific student demographics face in completing the FAFSA and accessing financial aid.
 
 I also designed these visualizations to resonate with people following current changes to the U.S. Department of Education’s definition of “professional degrees,” and others who are thinking critically about how policy shifts affect students’ pathways. Ultimately, the story I want to convey is for meant for those who both empathize with and are positioned to respond to the challenges facing marginalized students navigating the FAFSA process.
 
 
 ### FAFSA Completion Rates Across DCPS High Schools, 2019–2024
 
-<div class='tableauPlaceholder' id='viz1764367259727' style='position: relative'><noscript><a href='#'><img alt='FAFSA Completion Rates Across DCPS High Schools, 2019–2024This line graph shows FAFSA completion rates by school and ward across six academic years, aligned with pandemic phases (before, onset, virtual, mask, return, recovery).  ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FA&#47;FAFSACompletionforDCPSBoxandWhisker&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FAFSACompletionforDCPSBoxandWhisker&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FA&#47;FAFSACompletionforDCPSBoxandWhisker&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1764367259727');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<iframe 
+  src="https://public.tableau.com/views/FAFSACompletionforDCPSDistributionBWP/Sheet2?:showVizHome=no&:embed=true" 
+  width="100%" 
+  height="900" 
+  style="border:none;">
+</iframe>
 
 
 ### Distribution of FAFSA Completion Rates by School and Year
 
-<div class='tableauPlaceholder' id='viz1764367316913' style='position: relative'><noscript><a href='#'><img alt='Distribution of FAFSA Completion Rates by School and YearThis box‑and‑whisker plot displays the spread of FAFSA completion rates across DCPS high schools for each year. Comparing years reveals how the overall distribution shifted during the pandemic and ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;D3&#47;D383XCGBG&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;D383XCGBG' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;D3&#47;D383XCGBG&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1764367316913');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+<iframe 
+  src="https://public.tableau.com/views/FAFSACompletionforDCPSBoxandWhisker/Sheet1?:showVizHome=no&:embed=true" 
+  width="100%" 
+  height="900" 
+  style="border:none;">
+</iframe>
 
  
 
