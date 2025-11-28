@@ -11,6 +11,29 @@ The primary audience includes advocates for equitable education who are concerne
 
 I also designed these visualizations to resonate with people following current changes to the U.S. Department of Education’s definition of “professional degrees,” and others who are thinking critically about how policy shifts affect students’ pathways. Ultimately, the story I want to convey is for meant for those who both empathize with and are positioned to respond to the challenges facing marginalized students navigating the FAFSA process.
 
+
+### FAFSA Completion Rates Across DCPS High Schools, 2019–2024
+
+<iframe 
+  src="https://public.tableau.com/views/FAFSACompletionforDCPSBoxandWhisker/Sheet1?:showVizHome=no&:embed=true" 
+  width="100%" 
+  height="800px"
+  frameborder="0"
+></iframe>
+
+
+### Distribution of FAFSA Completion Rates by School and Year
+
+<iframe 
+  src="https://public.tableau.com/views/FAFSACompletionforDCPSDistributionBWP/Sheet2?:showVizHome=no&:embed=true"
+  width="100%" 
+  height="800px"
+  frameborder="0"
+></iframe>
+
+
+
+
 ## Interview Methodology
 
 The approach to identifying interviewees focused on finding people with meaningful exposure to education systems and educational disparities. You sought individuals with professional experience in education, familiarity with urban schools, and awareness of how inequities show up in college access and financial aid.
