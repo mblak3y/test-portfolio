@@ -173,9 +173,9 @@ I’d appreciate fewer categories and clearer visual emphasis. A simplified focu
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Going forward, you plan to lean into the visualization and storytelling techniques from your course and intentionally approach the project from a more unconventional perspective. You will treat this as an opportunity to experiment with design choices that clarify rather than complicate the story.
+Going forward, I plan to lean into the visualization and storytelling techniques  and intentionally approach the project from a more unconventional perspective. I'm using Part 3 as an opportunity to experiment with design choices that clarify rather than complicate the story.
 
-One specific change is to update your visuals to focus on 2–3 student demographics that are most represented among schools with the steepest declines in FAFSA completion since the COVID-19 pandemic. By centering on these groups, you can better connect the data to the lived experiences of students you care about and refine the narrative for the DC FAFSA Initiative and your independent study.
+One specific change is to update  visuals to focus on 2–3 student demographics that are most represented among schools with the steepest declines in FAFSA completion since the COVID-19 pandemic. By centering on these groups, I will use the data to refine the narrative for the DC FAFSA Initiative and your independent study.
 
 
 ## References
