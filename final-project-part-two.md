@@ -11,18 +11,13 @@ The primary audience includes advocates for equitable education who are concerne
 
 I also designed these visualizations to resonate with people following current changes to the U.S. Department of Education’s definition of “professional degrees,” and others who are thinking critically about how policy shifts affect students’ pathways. Ultimately, the story I want to convey is for meant for those who both empathize with and are positioned to respond to the challenges facing marginalized students navigating the FAFSA process.
 
+# A Tale of Two Cities: Visualizing FAFSA Completion and Graduation Patterns in DCPS
 
-### FAFSA Completion Rates Across DCPS High Schools, 2019–2024
+---
 
-<iframe 
-  src="https://public.tableau.com/views/FAFSACompletionforDCPSDistributionBWP/Sheet2?:showVizHome=no&:embed=true" 
-  width="100%" 
-  height="900" 
-  style="border:none;">
-</iframe>
+## 📊 Visualization 1 — FAFSA Completion Rates Across DCPS High Schools (2019–2024)
 
-
-### Distribution of FAFSA Completion Rates by School and Year
+This is the introductory to show how completion trends changed from pre-pandemic through virtual learning and recovery phases.  
 
 <iframe 
   src="https://public.tableau.com/views/FAFSACompletionforDCPSBoxandWhisker/Sheet1?:showVizHome=no&:embed=true" 
@@ -31,7 +26,58 @@ I also designed these visualizations to resonate with people following current c
   style="border:none;">
 </iframe>
 
- 
+---
+
+## Distribution of FAFSA Completion Rates (Box & Whisker)
+
+Display year-to-year variability and inequality in FAFSA completion across DCPS high schools. This chart will follow the line graph to deepen the trend analysis with distributional context.
+
+<iframe 
+  src="https://public.tableau.com/views/FAFSACompletionforDCPSDistributionBWP/Sheet2?:showVizHome=no&:embed=true" 
+  width="100%" 
+  height="900" 
+  style="border:none;">
+</iframe>
+
+---
+
+## FAFSA Declines in Ward 7 & 8
+
+This graph Highlight which wards experienced the steepest declines in FAFSA completion and when they occurred. The chart intentionally succeeds the visualizaton capturing overall trends as a way spotlight neighborhood-level inequities.
+
+<iframe 
+  src="https://public.tableau.com/views/FAFSADeclinesinWard7and8/FAFSADeclinesinWard7and8?:showVizHome=no&:embed=true" 
+  width="100%" 
+  height="900" 
+  style="border:none;">
+</iframe>
+
+---
+
+## % of Black Graduates Completing FAFSA
+
+>> This graph captures FAFSA completion outcomes for Black graduates within DCPS. This demographic was selected because DCPS is still a predominantly black school district despite the increasing gentrification of the city.
+
+<iframe 
+  src="https://public.tableau.com/views/ofBlackGraduatesfromDCPS/ofEconDisGraduates?:showVizHome=no&:embed=true" 
+  width="100%" 
+  height="900" 
+  style="border:none;">
+</iframe>
+
+---
+
+## % of Economically Disadvantaged (FRLP) Graduates Completing FAFSA
+
+>> This graphs captures FAFSA completion rates for economically disadvantaged students with those of other groups.  
+
+<iframe 
+  src="https://public.tableau.com/views/ofFRLPGraduatesfromDCPS/ofEconDisGraduates?:showVizHome=no&:embed=true" 
+  width="100%" 
+  height="900"
+  style="border:none;">
+</iframe>
+
 
 ### Shorthand Storyboard
 
@@ -189,5 +235,4 @@ One specific change is to update  visuals to focus on 2–3 student demographics
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used AI to help correctly embed my visualizations on my Github page. As of 12/1, I am considering using AI to help create a calculated field for the visualizations that is breaking down the deomgraphics of DCPS' graduating senior classes tha filters out the 5 highest values per year. 
