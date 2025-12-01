@@ -58,11 +58,11 @@ This graph Highlight which wards experienced the steepest declines in FAFSA comp
 
 >> This graph captures FAFSA completion outcomes for Black graduates within DCPS. This demographic was selected because DCPS is still a predominantly black school district despite the increasing gentrification of the city.
 
-<iframe 
+<iframe
   src="https://public.tableau.com/views/FAFSADeclinesinWard7and8/FAFSADeclinesinWard7and8?:showVizHome=no&:embed=true"
-  width="100%" 
-  height="800" 
-  frameborder="0">
+  width="100%"
+  height="900"
+  style="border:none;">
 </iframe>
 
 ---
