@@ -15,7 +15,7 @@ I also designed these visualizations to resonate with people following current c
 
 ---
 
-## 📊 Visualization 1 — FAFSA Completion Rates Across DCPS High Schools (2019–2024)
+## FAFSA Completion Rates Across DCPS High Schools (2019–2024)
 
 This is the introductory to show how completion trends changed from pre-pandemic through virtual learning and recovery phases.  
 
