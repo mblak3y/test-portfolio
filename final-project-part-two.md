@@ -33,6 +33,13 @@ I also designed these visualizations to resonate with people following current c
 
  
 
+### Shorthand Storyboard
+
+
+
+https://preview.shorthand.com/2GWq7SlvtKeoYdSl
+
+
 ## Interview Methodology
 
 The approach to identifying interviewees focused on finding people with meaningful exposure to education systems and educational disparities. You sought individuals with professional experience in education, familiarity with urban schools, and awareness of how inequities show up in college access and financial aid.
