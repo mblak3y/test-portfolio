@@ -24,14 +24,15 @@ After completing my second set of interviews with my developing Tableau workbook
 
 ## References
 Works Cited
-DCPS Data Set—Graduation Rates | dcps. (n.d.). Retrieved December 6, 2025, from https://dcps.dc.gov/node/1018352
-FAFSA® Completion by High School and Public School District | Federal Student Aid. (n.d.). Retrieved December 6, 2025, from https://studentaid.gov/data-center/student/application-volume/fafsa-completion-high-school
+DCPS Data Set—Graduation Rates | dcps. (n.d.). Retrieved December 3, 2025, from https://dcps.dc.gov/node/1018352
+
+FAFSA® Completion by High School and Public School District | Federal Student Aid. (n.d.). Retrieved December 3, 2025, from https://studentaid.gov/data-center/student/application-volume/fafsa-completion-high-school
 
 
 
 ## AI acknowledgements
 
-I used AI to help with embedding my Tableau links. 
+I used AI to help with embedding my Tableau links on my Shorthand website
 
 # Final thoughts
 
