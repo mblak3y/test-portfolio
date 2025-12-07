@@ -1,36 +1,40 @@
 | [home page](https://mblak3y.github.io/test-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
 
-Text here!
+https://preview.shorthand.com/2GWq7SlvtKeoYdSl
+
+
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+These visualizations will serve as the foundation for my independent study next semester. My primary audience for this visualization will be people passionate about urban education, education disparity, post-secondary access, and stakeholders in District of Columbia Public School, or DCPS. These series graphic is catered towards includes parents, students, and other stakeholders in DCPS. 
 
-## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+When I was putting the visualizations together and subsequently developing my storyboard, I initially struggled with developing a concise narrative because I wanted to make sure that all aspects of the dataset were reflected in what I shared. To give context, I’m a first-generation college graduate that spent the first decade of their career expanding post-secondary access for low-income communities.
 
-Text here!
+Using these datasets, I wanted to track the journey of low-income and Black students pursuing college after graduating from DCPS. I wanted to document their pathways and outcomes because of my lived experience as a Black first-generation college graduate, DCPS alumni, and 20-year resident of Ward 7. 
 
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
+I relied on my experience as a college counselor to help shape the narrative. First, I set a 65% FAFSA completion rate as a benchmark for the data. I borrowed this benchmark from prior roles that used it as a mapping tool for weekly FAFSA completion goals. Using this benchmark helped shape the narrative because of the pattern that emerged with the schools’ achievement of the benchmark. 
 
-Text here!
+This collection of a boxplot, line charts, and bar graphs captures that narrative. The box plot captures the distribution of the completion rates. From there, the line charts parse out trends in each schools’ FAFSA completion patterns. The bar graphs capture the percentage of Black and FRLP (Free and Reduced Lunch Program) recipients in each school’s graduating class. However, I focused on schools with FAFSA completion rates below 65% and noticed that the number of schools that met those criteria increasing over time. Also, the overarching trend in the visualizations based on this benchmark is that the FAFSA completion remained above 65% only magnet schools in Washington, DC. 
+
+After completing my second set of interviews with my developing Tableau workbook, I wanted to focus on exploratory visualizations to spark next steps with my independent study. One major change since Part 2 is deciding to follow a chronological order when presenting my data. Initially, I thought that I would have more time to combine more dataset across DCPS and make comparison between public charter, traditional public, and private schools. However, the demographic data needed wasn’t publicly available. So, after compiling my complete dataset and meeting with Belen, I ultimately decided on focusing on providing a very brief overview of the research that these visualizations sparked.
+
+
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+Works Cited
+DCPS Data Set—Graduation Rates | dcps. (n.d.). Retrieved December 6, 2025, from https://dcps.dc.gov/node/1018352
+FAFSA® Completion by High School and Public School District | Federal Student Aid. (n.d.). Retrieved December 6, 2025, from https://studentaid.gov/data-center/student/application-volume/fafsa-completion-high-school
+
+
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Text here!
+I used AI to help with embedding my Tableau links. 
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
-
+I’m still deciding on the scope of my analysis for my independent study. I would like to conduct regression analysis and determine if there is any correlation between the trends that I’ve observed in my visualizations. 
+Given that my complete database contains information for all public schools across the United States across 2019-2024, one potential avenue for my project could analyze completion rates across major cities. I really want to make a map based visualization of this dataset. I would be interested to see if trends and relationships that emerged. 
 
