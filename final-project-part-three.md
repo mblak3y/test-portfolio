@@ -4,6 +4,15 @@
 
 https://preview.shorthand.com/2GWq7SlvtKeoYdSl
 
+# Final Tableau Workbook
+
+<iframe
+  src="https://public.tableau.com/views/TSWDFinalWorkbook/Sheet2?:embed=y&:showVizHome=no"
+  title="TSWD Final Workbook - Sheet 2"
+  width="100%"
+  height="800"
+  style="border:none;">
+</iframe>
 
 
 # Changes made since Part II
@@ -16,7 +25,12 @@ Using these datasets, I wanted to track the journey of low-income and Black stud
 
 I relied on my experience as a college counselor to help shape the narrative. First, I set a 65% FAFSA completion rate as a benchmark for the data. I borrowed this benchmark from prior roles that used it as a mapping tool for weekly FAFSA completion goals. Using this benchmark helped shape the narrative because of the pattern that emerged with the schools’ achievement of the benchmark. 
 
-This collection of a boxplot, line charts, and bar graphs captures that narrative. The box plot captures the distribution of the completion rates. From there, the line charts parse out trends in each schools’ FAFSA completion patterns. The bar graphs capture the percentage of Black and FRLP (Free and Reduced Lunch Program) recipients in each school’s graduating class. However, I focused on schools with FAFSA completion rates below 65% and noticed that the number of schools that met those criteria increasing over time. Also, the overarching trend in the visualizations based on this benchmark is that the FAFSA completion remained above 65% only magnet schools in Washington, DC. 
+This collection of a boxplot, line charts, and bar graphs captures that narrative. The box plot captures the distribution of the completion rates. From there, the line charts parse out trends in each schools’ FAFSA completion patterns.  I used the line graphs to illuminate the schools that didn't return to pre-pandemic or above 65% completions.  After establishing 65% as the benchmark, I made a bar graph visualized the percentages of Black and FRLP recipients at schools at or below 65% FAFSA completion. The bar graphs capture the percentage of Black and FRLP (Free and Reduced Lunch Program) recipients in each school’s graduating class. However, I focused on schools with FAFSA completion rates below 65% and noticed that the number of schools that met those criteria increasing over time. Also, after creating this graph, I noticed that not only were the number of schools with FAFSA completion rates at or below 65% completion increasing- but that the schools that were added to the list were schools with high concentrations of Black and Free Reduced Lunch Program Recipient. 
+
+As I completed the bar graphs, the overarching trend in the visualizations was such that the FAFSA completion remained above 65% only magnet schools in Washington, DC. While this occurence was not a complete surprise to me, I wanted to make sure that I included those schools in the visualizations. First, I graphed an inverse of the initial combined year by year bar graphs. 
+
+I decided to focus on the Free and Lunch Program participants because I wanted to make a connection between decrease in access to potential Pell Grant funding, decrease in FRLP participants graduating from high schools that have higher FAFSA Completion rates. I wanted to make a bar graph that capture the decline in financially vulnerable students in graduating from high schools that complete the FAFSA. I wanted to take this approach because I wanted all of my graphs to show that high school seniors in DCPS need assistance with navigating the terrain of post-secondary planning. I wanted my graphs to show how the need for assistance has increased over time. Lastly, I wanted the last graph to show that while a subset of schools maintained above 75% FAFSA completion rates, DCPS' low-income students were less represented in their graduating classes. I wanted my graphs to show that no matter how it was plotted, FAFSA completion rates amongst low-income and Black high school seniors in DCPS haven't fully recovered from the COVID-19 pandemic. 
+
 
 After completing my second set of interviews with my developing Tableau workbook, I wanted to focus on exploratory visualizations to spark next steps with my independent study. One major change since Part 2 is deciding to follow a chronological order when presenting my data. Initially, I thought that I would have more time to combine more dataset across DCPS and make comparison between public charter, traditional public, and private schools. However, the demographic data needed wasn’t publicly available. So, after compiling my complete dataset and meeting with Belen, I ultimately decided on focusing on providing a very brief overview of the research that these visualizations sparked.
 
